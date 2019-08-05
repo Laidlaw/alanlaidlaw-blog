@@ -11,7 +11,7 @@ module.exports = {
   author: 'Alan Laidlaw',
   githubUrl: 'https://github.com/Laidlaw/alanlaidlaw-blog',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'www.alanlaidlaw.com',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'alanlaidlaw',
