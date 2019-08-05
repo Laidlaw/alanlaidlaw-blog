@@ -3,7 +3,7 @@ title: "There is a paradox about project and product management."
 description: "When you’re running out of time, following a process shouldn’t be your biggest concern. You need a firefighter who knows how to alter the…"
 date: "2015-09-04T18:01:48.244Z"
 categories: []
-published: true
+published: false
 canonical_link: https://medium.com/@alanlaidlaw/there-is-a-paradox-about-project-and-product-management-33d5fdcc8f22
 redirect_from:
   - /there-is-a-paradox-about-project-and-product-management-33d5fdcc8f22

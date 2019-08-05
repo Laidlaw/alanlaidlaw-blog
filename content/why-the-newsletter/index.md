@@ -3,7 +3,7 @@ title: "Why The Newsletter?"
 description: "So I bet you’re wondering why you joined this weekly newsletter. If you know me, you’re just morbidly curious about what the disaster this…"
 date: "2016-04-17T17:23:33.685Z"
 categories: []
-published: true
+published: false
 canonical_link: https://medium.com/@alanlaidlaw/why-the-newsletter-7bc8df7083c0
 redirect_from:
   - /why-the-newsletter-7bc8df7083c0

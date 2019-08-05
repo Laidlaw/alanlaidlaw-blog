@@ -3,7 +3,7 @@ title: "The Golden Gate Bridge."
 description: "Based on your first image, I was certain you were going to suggest a bridge. It is both grounded and elevated. More importantly, a bridge…"
 date: "2016-02-13T14:11:04.673Z"
 categories: []
-published: true
+published: false
 canonical_link: https://medium.com/@alanlaidlaw/the-golden-gate-bridge-1132c22bafbc
 redirect_from:
   - /the-golden-gate-bridge-1132c22bafbc

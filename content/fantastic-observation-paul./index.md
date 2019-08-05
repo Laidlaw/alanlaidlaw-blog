@@ -3,7 +3,7 @@ title: "Fantastic observation, Paul."
 description: "I’ve been noticing the same pattern, but I had been thinking about it in terms of Models, Views and Controllers. The web could be the…"
 date: "2015-10-07T21:24:12.708Z"
 categories: []
-published: true
+published: false
 canonical_link: https://medium.com/@alanlaidlaw/fantastic-observation-paul-a27e5e931d46
 redirect_from:
   - /fantastic-observation-paul-a27e5e931d46

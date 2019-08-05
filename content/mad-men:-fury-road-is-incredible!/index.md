@@ -3,7 +3,7 @@ title: "Mad Men: Fury Road is incredible!"
 description: "Guys, what an incredible finale! Despite the scandal of the movie’s feminist overtones, I just want to make one point — the film was true…"
 date: "2015-05-26T00:58:38.498Z"
 categories: []
-published: true
+published: false
 canonical_link: https://medium.com/@alanlaidlaw/mad-men-fury-road-is-incredible-e92855dc2b10
 redirect_from:
   - /mad-men-fury-road-is-incredible-e92855dc2b10

@@ -3,7 +3,7 @@ title: "Building a Timeline for The National Guard"
 description: "When I took over as product manager in January, I saw a big problem. The app was supposed to show how a career with the National Guard…"
 date: "2016-07-01T18:06:31.342Z"
 categories: []
-published: true
+published: false
 canonical_link: https://medium.com/@alanlaidlaw/building-a-timeline-for-the-national-guard-c5a3915a4b5c
 redirect_from:
   - /building-a-timeline-for-the-national-guard-c5a3915a4b5c
